@@ -4,7 +4,6 @@ import { resolve } from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/archivos-oea/', 
   plugins: [react()],
   server: {
     fs: {

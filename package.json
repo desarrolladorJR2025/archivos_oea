@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://desarrolladorJR2025.github.io/archivos-oea",
+  "homepage": "https://desarrolladorjr2025.github.io/archivos_oea/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
