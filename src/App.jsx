@@ -17,7 +17,7 @@ function App() {
 
   useEffect(() => {
     async function cargarDatos() {
-      const data = await readYamlFile('/src/files_2.yaml');
+      const data = await readYamlFile('/src/files_2.yaml');//archivo de descripcion de archivos
       setArchivos(data);
     }
     cargarDatos();
