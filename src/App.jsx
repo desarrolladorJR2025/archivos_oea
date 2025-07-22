@@ -10,6 +10,13 @@ function obtenerCarpetaDeRuta(ruta) {
   return partes.join('/');
 }
 
+function normalizar(texto) {
+  return (texto ?? '')
+    .normalize('NFD')                  // separa letras de sus tildes
+    .replace(/[\u0300-\u036f]/g, '')   // elimina las tildes
+    .toLowerCase();                   // convierte todo a minúsculas
+}
+
 function App() {
   const [archivos, setArchivos] = useState([]);
   const [busqueda, setBusqueda] = useState('');
@@ -27,12 +34,13 @@ function App() {
     if (!busqueda) {
       setFiltrados(archivos);
     } else {
+      const terminoNormalizado = normalizar(busqueda);
       setFiltrados(
-        archivos.filter(
-          (a) =>
-            a.nombre.toLowerCase().includes(busqueda.toLowerCase()) ||
-            a.descripcion.toLowerCase().includes(busqueda.toLowerCase())
+        archivos.filter((a) =>
+          normalizar(a.nombre).includes(terminoNormalizado) ||
+          normalizar(a.descripcion).includes(terminoNormalizado)
         )
+
       );
     }
   }, [busqueda, archivos]);
