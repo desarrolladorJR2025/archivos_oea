@@ -1,0 +1,256 @@
+- descripcion: 'Procedimiento para la operación, monitoreo, mantenimiento, acceso y contingencias del sistema de CCTV de la empresa LeanCE Logistics. Incluye responsabilidades, políticas, planes de acción, matriz de riesgos, indicadores y formatos relacionados.'
+  nombre: LLO-TI-PR-002 Procedimiento CCTV - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B8C0B8DD2-9D9E-4DAB-872F-766CD3597CE6%7D&file=LLO-TI-PR-002%20Procedimiento%20CCTV%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Lay out de instalaciones de LeanCE Logistics, S.A. de C.V. que incluye accesos, luminarias, CCTV, áreas críticas, delimitaciones, etc. para la seguridad física de las instalaciones.'
+  nombre: LLO-OP-DO-001-01 Lay out de instalaciones (accesos, luminarias, CCTV, áreas críticas, delimitaciones, etc.). - Versión 1.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B081CB3D1-B6FD-4F36-809B-3C028DD07C9B%7D&file=LLO-OP-DO-001-01%20Lay%20out%20de%20instalaciones%20(accesos%2C%20luminarias%2C%20CCTV%2C%20%C3%A1reas%20cr%C3%ADticas%2C%20delimitaciones%2C%20etc.).%20-%20Versi%C3%B3n%201.pptx&action=edit&mobileredirect=true
+  tipo: PowerPoint
+
+- descripcion: 'Reporte de revisiones aleatorias del sistema CCTV.'
+  nombre: LLO-TI-FO-002-01 REVISIONES ALEATORIAS CCTV 2022, 2023, 2024.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B748EE0E7-DB22-4247-8A1D-005BB2C18C61%7D&file=LLO-TI-FO-002-01%20REVISIONES%20ALEATORIAS%20CCTV%202022%2C%202023%2C%202024.xlsx&action=default&mobileredirect=true
+  tipo: Excel
+
+- descripcion: 'Procedimiento para la gestión, asignación, uso y mantenimiento de dispositivos de comunicación (smartphones, tabletas, laptops, almacenamiento) en la empresa. Incluye políticas de uso de dispositivos personales, registro, lineamientos de comunicación interna, mantenimiento, seguridad y respaldo de información.'
+  nombre: LLO-TI-PR-001 Procedimiento de Dispositivos de Comunicación - versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BF9ADC179-760A-4D92-A71B-C0408DF4F151%7D&file=LLO-TI-PR-001%20Procedimiento%20de%20Dispositivos%20de%20Comunicaci%C3%B3n%20-%20versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Formato y políticas para el préstamo y resguardo de equipo de TI a colaboradores. Incluye reglas de uso, restricciones, obligaciones del usuario y procedimientos en caso de daños, pérdidas o mal uso. También contempla las condiciones para la devolución al término de la relación laboral.'
+  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI -  Revisión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B6A472730-121F-4C82-899E-7EF720EEC49C%7D&file=LLO-TI-FO-001-03%20Resguardo%20Equipo%20TI%20-%20%20Revisi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Directorio teléfonico interno de oficina Fontana'
+  nombre: LLO-TI-DO-001-01 Directorio Telefónico Interno - Versión 2.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B4AF4FAA9-1CB0-44CC-982E-2DADB9937695%7D&file=LLO-TI-DO-001-01%20Directorio%20Telef%C3%B3nico%20Interno%20-%20Versi%C3%B3n%202.pptx&action=edit&mobileredirect=true
+  tipo: PowerPoint
+
+- descripcion: 'Formato para la solicitud de dispositivos móviles y equipo de cómputo.'
+  nombre: LLO-TI-FO-001-02 Solicitud de Disp Movil  Equipo de computo - Versión 1.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B3F94FAC9-C26F-4A98-8EB3-0035C4240CE4%7D&file=LLO-TI-FO-001-02%20Solicitud%20de%20Disp%20Movil%20%20Equipo%20de%20computo%20-%20Versi%C3%B3n%201.xlsx&action=default&mobileredirect=true
+  tipo: Excel
+
+- descripcion: 'Reporte de Hallazgos de dispositivos móviles'
+  nombre: LLO-TI-FO-001-04 Reporte de Hallazgos de Dispositivos Moviles - Versión 1.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B3D7BCB72-B962-4805-ACE9-721EC10EE938%7D&file=LLO-TI-FO-001-04%20Reportede%20Hallazgos%20de%20Dispositivos%20Moviles%20-%20Versi%C3%B3n%201.xlsx&action=default&mobileredirect=true
+  tipo: Excel
+
+- descripcion: 'Registro y seguimiento de alertas de seguridad en oficinas y patios, mediante un semáforo de incidentes para LeanCE Logistics.'
+  nombre: LLO-TI-FO-001-01 Semáforo de Alertas Seguridad Oficinas Patios - Versión 1.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B0D25E742-29A9-4F06-9F2B-3A4A0691A877%7D&file=LLO-TI-FO-001-01%20Sem%C3%A1foro%20de%20Alertas%20Seguridad%20Oficinas%20Patios%20-%20Versi%C3%B3n%201.xlsx&action=default&mobileredirect=true
+  tipo: Excel
+
+- descripcion: 'Directorio de autoridades en caso de emergencia, incluyendo contactos clave para situaciones críticas.'
+  nombre: LLO-TI-DO-001-02  Directorio de autoridades en caso de emergencia - Versión 1.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B939004BD-A195-4A04-9EFC-1500E44EDAEA%7D&file=LLO-TI-DO-001-02%20%20Directorio%20de%20autoridades%20en%20caso%20de%20emergencia%20-%20Versi%C3%B3n%201.pptx&action=edit&mobileredirect=true
+  tipo: PowerPoint
+
+- descripcion: 'Procedimiento de ciberseguridad actualizado, enfocado en el uso de firewall, gestión de amenazas, respaldos y recuperación de información, gestión de contraseñas y medidas para incidentes de hackeo. Incluye flujogramas y plan de acción detallado.'
+  nombre: LLO-TI-PR-006 Procedimiento de Ciberseguridad - Versión 3.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B5FBC2B77-0AF9-4491-85DD-F061930841A6%7D&file=LLO-TI-PR-006%20Procedimiento%20de%20Ciberseguridad%20-%20Versi%C3%B3n%203.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Políticas generales y específicas de uso, seguridad, mantenimiento y administración de la tecnología informática en LeanCE Logistics. Incluye definiciones, responsabilidades, prohibiciones, medidas disciplinarias y buenas prácticas.'
+  nombre: LLO-TI-PO-006-02 Políticas de Tecnología Informática - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B0BBFE421-B844-4837-8658-E38139B04144%7D&file=LLO-TI-PO-006-02%20Pol%C3%ADticas%20de%20Tecnolog%C3%ADa%20Inform%C3%A1tica%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Procedimiento para gestionar el acceso remoto seguro a la red interna o equipos de la empresa mediante VPN, con controles, monitoreo y plan de acción ante incidentes.'
+  nombre: LLO-TI-PR-003 Procedimiento de Acceso Remoto - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B4FD2A0DB-FB1B-4CD8-8C9B-4B4705EFA89E%7D&file=LLO-TI-PR-003%20Procedimiento%20de%20Acceso%20Remoto%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Procedimiento para dar de alta y baja a usuarios en sistemas, bases de datos, correo y asignación/recepción de equipo. Incluye flujogramas, políticas y buenas prácticas.'
+  nombre: LLO-TI-PR-004  Procedimiento de Alta y Baja de Usuarios - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B5DB0E897-2FB3-4C9B-9FC2-65A14188D69D%7D&file=LLO-TI-PR-004%20%20Procedimiento%20de%20Alta%20y%20Baja%20de%20Usuarios%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Establece un marco para clasificar y proteger los datos de la organización según su nivel de sensibilidad (Confidencial, Interno, Público). Incluye roles, procesos, sanciones y capacitación.'
+  nombre: LLO-TI-PO-006-03 Política de Clasificación de Datos.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B51C38DFF-BD83-4C2D-A284-F6AFAB9FBBC0%7D&file=LLO-TI-PO-006-03%20Pol%C3%ADtica%20de%20Clasificaci%C3%B3n%20de%20Datos.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Políticas para prevenir accesos no autorizados a dispositivos móviles o equipos de cómputo, especialmente fuera de las instalaciones. Incluye reglas de uso, seguridad física y protección de datos sensibles.'
+  nombre: LLO-TI-PO-001-01 Políticas de Dispositivos Móviles - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BED6BC8C5-FADA-4D61-A63C-B30A41905F68%7D&file=LLO-TI-PO-001-01%20Pol%C3%ADticas%20de%20Dispositivos%20M%C3%B3viles%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Define cómo archivar, almacenar y proteger documentos electrónicos y físicos para evitar pérdidas o deterioro. Incluye medidas técnicas, almacenamiento adecuado, respaldos periódicos y control documental.'
+  nombre: LLO-TI-PO-006-01 Políticas para archivar información y protegerla de posibles pérdidas - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B84EB9922-DE4A-4905-B344-725AE2347973%7D&file=LLO-TI-PO-006-01%20Pol%C3%ADticas%20para%20archivar%20informaci%C3%B3n%20y%20protegerla%20de%20posibles%20p%C3%A9rdidas%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Regula las condiciones para que los colaboradores realicen trabajo remoto, en cumplimiento con la NOM-037-STPS-2023. Incluye horarios, equipos, seguridad, ergonomía, capacitación y supervisión.'
+  nombre: LLO-TI-PO-003-01 Política de trabajo remoto.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B1EABEEB5-C7EF-43D8-BC4E-2F6A06A131A3%7D&file=LLO-TI-PO-003-01%20Pol%C3%ADtica%20de%20trabajo%20remoto.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Establece la gestión, control y protección de los activos de TI (hardware, software, datos e infraestructura) en la organización. Incluye roles, inventario, clasificación, mantenimiento, baja y sanciones.'
+  nombre: LLO-TI-PO -007-01Política de activos Fijos.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BC5F4C5B5-0451-4CAE-ABAF-AE040454C864%7D&file=LLO-TI-PO%20-007-01Pol%C3%ADtica%20de%20activos%20Fijos.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Organigrama del área de TI enfocado en seguridad de la información, describiendo roles y responsabilidades del Gerente, Soporte Técnico y Desarrollador Jr.'
+  nombre: InformationSecurityOrganizationChart.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B193AC8DB-F2C7-4533-A496-6AEA10800454%7D&file=InformationSecurityOrganizationChart.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Procedimiento para mantenimiento preventivo y correctivo de equipos y dispositivos, incluyendo planes, políticas de seguridad, registro y control de hallazgos.'
+  nombre: LLO-TI-PR-007  Procedimiento de mantenimiento Para Equipos - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B5D2D77E0-19C3-4FDD-9F27-DC484EFDD899%7D&file=LLO-TI-PR-007%20%20Procedimiento%20de%20mantenimiento%20Para%20Equipos%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: '	Procedimiento para prevenir, detectar y mitigar ataques de ingeniería social como phishing, baiting, dumpster diving, pretexting, shoulder surfing, tailgating y vishing. Incluye flujogramas, políticas y planes de acción.'
+  nombre: LLO-TI-PR-005 Procedimiento de Ingeniería Social - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B9FCC4E6A-0A36-4B2E-B232-81D905D223B9%7D&file=LLO-TI-PR-005%20Procedimiento%20de%20Ingenier%C3%ADa%20Social%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Formato para solicitar acceso a redes sociales con fines laborales, especificando motivos, tipo de acceso y responsabilidades del colaborador.'
+  nombre: LLO-TI-FO-006-02 Solicitud de Acceso a Redes Sociales - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B37C6C483-E5DB-441A-A4BB-D525B365E4C5%7D&file=LLO-TI-FO-006-02%20Solicitud%20de%20Acceso%20a%20Redes%20Sociales%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Archivo Excel para documentar hallazgos relacionados con incidentes y vulnerabilidades de ciberseguridad reportadas.'
+  nombre: LLO-TI-FO-006-01 Reporte Hallazgos Ciberseguridad - Versión 1.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B81D1A55B-CA25-4EFD-B6E2-808BEACF6B8D%7D&file=LLO-TI-FO-006-01%20Reporte%20Hallazgos%20Ciberseguridad%20-%20Versi%C3%B3n%201.xlsx&action=default&mobileredirect=true
+  tipo: Excel
+
+- descripcion: 'Formato y políticas para el préstamo, uso, cuidado y devolución de equipos de TI asignados a colaboradores. Incluye obligaciones, restricciones y sanciones.'
+  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BB1CDB062-27B8-404F-8C43-E17CBE60D460%7D&file=LLO-TI-FO-001-03%20Resguardo%20Equipo%20TI%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-DO-001-01 Directorio Telefónico Interno - Versión 2.pptx
+  ruta: 
+  tipo: PowerPoint
+
+- descripcion: ''
+  nombre: LLO-TI-DO-001-02  Directorio de autoridades en caso de emergencia - Versión
+    1.pptx
+  ruta: 
+  tipo: PowerPoint
+
+- descripcion: ''
+  nombre: 
+  ruta: 
+  tipo: Excel
+
+- descripcion: ''                                                              
+  nombre: LLO-TI-FO-001-02 Solicitud de Disp Movil  Equipo de computo - Versión 1.xlsx
+  ruta: 
+  tipo: Excel
+
+- descripcion: ''
+  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI -  Revisión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-FO-001-04 Reportede Hallazgos de Dispositivos Moviles - Versión 1.xlsx
+  ruta: 
+  tipo: Excel
+
+- descripcion: 
+  nombre: LLO-TI-PR-001 Procedimiento de Dispositivos de Comunicación - versión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: 
+  ruta: 
+  tipo: PowerPoint
+
+- descripcion: ''
+  nombre: LLO-TI-FO-002-01 REVISIONES ALEATORIAS CCTV 2022, 2023, 2024.xlsx
+  ruta: 
+  tipo: Excel
+
+- descripcion: 
+  nombre: LLO-TI-PR-002 Procedimiento CCTV - Versión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: InformationSecurityOrganizationChart.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI - Versión 1.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-FO-006-01 Reporte Hallazgos Ciberseguridad - Versión 1.xlsx
+  ruta: 
+  tipo: Excel
+
+- descripcion: ' '
+  nombre: LLO-TI-FO-006-02 Solicitud de Acceso a Redes Sociales - Versión 1.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PO -007-01Política de activos Fijos.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PO-001-01 Políticas de Dispositivos Móviles - Versión 2.docx
+  ruta:
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PO-003-01 Política de trabajo remoto.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: 
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: 
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PO-006-03 Política de Clasificación de Datos.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: 
+  nombre: LLO-TI-PR-003 Procedimiento de Acceso Remoto - Versión 1.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PR-004  Procedimiento de Alta y Baja de Usuarios - Versión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PR-005 Procedimiento de Ingeniería Social - Versión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PR-006 Procedimiento de Ciberseguridad - Versión 2.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PR-006 Procedimiento de Ciberseguridad - Versión 3.docx
+  ruta: 
+  tipo: Word
+
+- descripcion: ''
+  nombre: LLO-TI-PR-007  Procedimiento de mantenimiento Para Equipos - Versión 2.docx
+  ruta: 
+  tipo: Word
+

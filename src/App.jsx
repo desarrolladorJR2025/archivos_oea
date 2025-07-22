@@ -17,7 +17,7 @@ function App() {
 
   useEffect(() => {
     async function cargarDatos() {
-      const data = await readYamlFile('/src/files_2.yaml');//archivo de descripcion de archivos
+      const data = await readYamlFile('/files_2.yaml');//archivo de descripcion de archivos
       setArchivos(data);
     }
     cargarDatos();
@@ -55,7 +55,7 @@ function App() {
               <div className="descripcion">{archivo.descripcion}</div>
               <a
                 className="enlace-carpeta"
-                href={`file:///${obtenerCarpetaDeRuta(archivo.ruta)}`}
+                href={`${obtenerCarpetaDeRuta(archivo.ruta)}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
