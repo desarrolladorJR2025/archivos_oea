@@ -24,8 +24,19 @@ function App() {
 
   useEffect(() => {
     async function cargarDatos() {
-      const data = await readYamlFile('/files_2.yaml');//archivo de descripcion de archivos
-      setArchivos(data);
+      try {
+        const data = await readYamlFile('/files_2.yaml');
+        const limpio = data.map(item => ({
+          nombre: typeof item.nombre === 'string' ? item.nombre : '',
+          descripcion: typeof item.descripcion === 'string' ? item.descripcion : '',
+          ruta: typeof item.ruta === 'string' ? item.ruta : '',
+          tipo: typeof item.tipo === 'string' ? item.tipo : ''
+        }));
+        setArchivos(limpio);
+      } catch (e) {
+        console.error(e);
+        setArchivos([]);
+      }
     }
     cargarDatos();
   }, []);
