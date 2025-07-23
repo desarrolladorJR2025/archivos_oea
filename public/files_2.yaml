@@ -123,134 +123,67 @@
   ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BB1CDB062-27B8-404F-8C43-E17CBE60D460%7D&file=LLO-TI-FO-001-03%20Resguardo%20Equipo%20TI%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
   tipo: Word
 
-- descripcion: ''
-  nombre: LLO-TI-DO-001-01 Directorio Telefónico Interno - Versión 2.pptx
-  ruta: 
+- descripcion: 'Reporte de incidentes en instalaciones, incluyendo procedimientos para manejar situaciones de emergencia, evacuación y seguridad física. Paqueteria sospechosa.'
+  nombre: LLO-OP-FO-005-01 Reporte de Incidentes en Instalaciones - Versión 2-Paqueteria Sospechosa.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B3F0F92EE-F15C-4048-90C6-731EC0C4D0E9%7D&file=LLO-OP-FO-005-01%20Reporte%20de%20Incidentes%20en%20Instalaciones%20-%20Versi%C3%B3n%202-Paqueteria%20Sospechosa.pptx&action=edit&mobileredirect=true
   tipo: PowerPoint
 
-- descripcion: ''
-  nombre: LLO-TI-DO-001-02  Directorio de autoridades en caso de emergencia - Versión
-    1.pptx
-  ruta: 
+- descripcion: 'Procedimiento oficial de LeanCE Logistics, S.A. de C.V. para el manejo e investigación de incidentes relacionados con la seguridad de la cadena de suministro, tanto en instalaciones como en ruta. Define las actividades, responsables, lineamientos y formatos para la detección, notificación, documentación, investigación y seguimiento de anomalías o actividades ilícitas. Incluye flujogramas operativos, políticas de operación, matriz de riesgos, indicadores de desempeño (KPI) y criterios de conservación de expedientes.'
+  nombre: LLO-OP-PR-005 Procedimiento de Manejo e Investigación de Incidentes - Versión 1.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BACA45CAC-B0DA-4CB3-AE4F-8114BA4DC811%7D&file=LLO-OP-PR-005%20Procedimiento%20de%20Manejo%20e%20Investigaci%C3%B3n%20de%20Incidentes%20-%20Versi%C3%B3n%201.docx&action=default&mobileredirect=true
+  tipo: Word
+
+- descripcion: 'Carpeta donde se encuentran archivos sobre paqueteria sospechosa.'
+  nombre: Paqueteria Sospechosa 
+  ruta: https://leance-my.sharepoint.com/:f:/g/personal/oea_leance_mx/EmaLTkdnZixEvq_uDHHp3zcBKXyM7YQjjukYLzvHwu4I5Q?e=3bWf1M
+  tipo: Carpeta
+
+- descripcion: 'Carpeta donde se encuentran archivos sobre reportes de CCTV.'                                                              
+  nombre: Reportes de CCTV
+  ruta: https://leance-my.sharepoint.com/:f:/g/personal/oea_leance_mx/EnaMiCrYI_JHgY8KgdMbtfsBdi9YkoWyGTiXve82Q-ORFA?e=gbwus9
+  tipo: Carpeta
+
+- descripcion: 'Carpeta donde se encuentran archivos pdf sobre reportes y procedimientos.'
+  nombre: PDF
+  ruta: https://leance-my.sharepoint.com/:f:/g/personal/oea_leance_mx/EoqqIywRVe1CsxXPFdAyt8sBgxabLCZnBoa60Cioe7IjlQ?e=aorwo0
+  tipo: Carpeta
+
+- descripcion: 'Carpeta dondese encuentran archivos sobre VUCEM.'
+  nombre: VUCEM
+  ruta: https://leance-my.sharepoint.com/:f:/g/personal/oea_leance_mx/Ei-CPI1YCYNBoGMEsqaafHUBLxtOhUcHkeJri9aBsn4nZQ?e=TT05od
+  tipo: Carpeta
+
+- descripcion: 'Politica de Seguridad LeanCE.'
+  nombre: LLO-RH-PO-001-01  Política de Seguridad LeanCE Versión 2.pdf
+  ruta: https://leance-my.sharepoint.com/:b:/g/personal/oea_leance_mx/EYAJ4iLTvP1FtifOM63__XgBbLmT3JULgyeul61ewE0hPQ?e=h93Mzx
+  tipo: PDF
+
+- descripcion: 'Reporte sobre simulacro de llamada de extorsión.'
+  nombre: LLO-AD-DO-001-04  Reporte de Simulacro - Versión 1.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BD2074C33-44AE-4CA6-AFF7-D50E669DE297%7D&file=LLO-AD-DO-001-04%20%20Reporte%20de%20Simulacro%20-%20Versi%C3%B3n%201.pptx&action=edit&mobileredirect=true
   tipo: PowerPoint
 
-- descripcion: ''
-  nombre: 
-  ruta: 
-  tipo: Excel
-
-- descripcion: ''                                                              
-  nombre: LLO-TI-FO-001-02 Solicitud de Disp Movil  Equipo de computo - Versión 1.xlsx
-  ruta: 
-  tipo: Excel
-
-- descripcion: ''
-  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI -  Revisión 2.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-FO-001-04 Reportede Hallazgos de Dispositivos Moviles - Versión 1.xlsx
-  ruta: 
-  tipo: Excel
-
-- descripcion: 
-  nombre: LLO-TI-PR-001 Procedimiento de Dispositivos de Comunicación - versión 2.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: 
-  ruta: 
+- descripcion: 'Plan de contingencia para la empresa LeanCE Logistics, S.A. de C.V. que incluye procedimientos, políticas, matriz de riesgos, indicadores y formatos relacionados.'
+  nombre: LLO-AD-DO-001-03  Plan de Contingencia - Versión 2.pptx
+  ruta: https://leance-my.sharepoint.com/:p:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BADC5B57E-B463-4820-A8E3-D08F3633C2B7%7D&file=LLO-AD-DO-001-03%20%20Plan%20de%20Contingencia%20-%20Versi%C3%B3n%202.pptx&action=edit&mobileredirect=true
   tipo: PowerPoint
 
-- descripcion: ''
-  nombre: LLO-TI-FO-002-01 REVISIONES ALEATORIAS CCTV 2022, 2023, 2024.xlsx
-  ruta: 
+- descripcion: 'Análisis de riesgos.'
+  nombre: LLO-AD-FO-001-01 Análisis de Riesgos - Versión 3.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B0E05AEE5-86F1-4D08-A7C1-794B32E702CF%7D&file=LLO-AD-FO-001-01%20An%C3%A1lisis%20de%20Riesgos%20-%20Versi%C3%B3n%203.xlsx&action=default&mobileredirect=true
   tipo: Excel
 
-- descripcion: 
-  nombre: LLO-TI-PR-002 Procedimiento CCTV - Versión 2.docx
-  ruta: 
+- descripcion: 'Identificar las amenazas y riesgos potenciales de seguridad que pudieran presentarse dentro de la cadena de suministros de LeanCE Logistics S.A. de C.V. con el fin comprobar el nivel de susceptibilidad e incidencia y así elaborar medidas de prevención y mitigación. '
+  nombre: LLO-AD-PR-001 Procedimiento de Análisis de riesgos - Versión 2.docx
+  ruta: https://leance-my.sharepoint.com/:w:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7BF2B5EFC1-7EBA-42E4-BF7D-72908BF4AE44%7D&file=LLO-AD-PR-001%20Procedimiento%20de%20An%C3%A1lisis%20de%20riesgos%20-%20Versi%C3%B3n%202.docx&action=default&mobileredirect=true
   tipo: Word
 
-- descripcion: ''
-  nombre: InformationSecurityOrganizationChart.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-FO-001-03 Resguardo Equipo TI - Versión 1.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-FO-006-01 Reporte Hallazgos Ciberseguridad - Versión 1.xlsx
-  ruta: 
+- descripcion: 'Reporte de prevencion de riesgos.'
+  nombre: LLO-AD-FO-001-03 Prevención de Riesgos - Versión 1.xlsx
+  ruta: https://leance-my.sharepoint.com/:x:/r/personal/oea_leance_mx/_layouts/15/Doc.aspx?sourcedoc=%7B0949399D-C99B-4C56-942D-CA48277F762B%7D&file=LLO-AD-FO-001-03%20Prevenci%C3%B3n%20de%20Riesgos%20-%20Versi%C3%B3n%201.xlsx&action=default&mobileredirect=true
   tipo: Excel
 
-- descripcion: ' '
-  nombre: LLO-TI-FO-006-02 Solicitud de Acceso a Redes Sociales - Versión 1.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PO -007-01Política de activos Fijos.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PO-001-01 Políticas de Dispositivos Móviles - Versión 2.docx
-  ruta:
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PO-003-01 Política de trabajo remoto.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: 
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: 
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PO-006-03 Política de Clasificación de Datos.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: 
-  nombre: LLO-TI-PR-003 Procedimiento de Acceso Remoto - Versión 1.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PR-004  Procedimiento de Alta y Baja de Usuarios - Versión 2.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PR-005 Procedimiento de Ingeniería Social - Versión 2.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PR-006 Procedimiento de Ciberseguridad - Versión 2.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PR-006 Procedimiento de Ciberseguridad - Versión 3.docx
-  ruta: 
-  tipo: Word
-
-- descripcion: ''
-  nombre: LLO-TI-PR-007  Procedimiento de mantenimiento Para Equipos - Versión 2.docx
-  ruta: 
-  tipo: Word
-
+- descripcion: 'Carpeta con archivos excel de prevención de riesgos.' 
+  nombre: Acciones CPM
+  ruta: https://leance-my.sharepoint.com/:f:/g/personal/oea_leance_mx/El9ZvBdfIRlOvXKYdn7-9jIB-vOhBCiS0Q4s_Rv-qiblng?e=ufWNq5
+  tipo: Carpeta

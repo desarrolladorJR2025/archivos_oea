@@ -24,7 +24,7 @@ function InputBusqueda({ busqueda, setBusqueda }) {
 
 function ResultadoArchivo({ archivo }) {
   const esEnlace = archivo.ruta && archivo.ruta.startsWith('http');
-  const icono = archivo.tipo === 'Word' ? '📄' : archivo.tipo === 'Excel' ? '📊' : archivo.tipo === 'PowerPoint' ? '📑' : '📁';
+  const icono = archivo.tipo === 'Word' ? '📄' : archivo.tipo === 'PDF' ? '📑' : archivo.tipo === 'Excel' ? '📊' : archivo.tipo === 'PowerPoint' ? '📑' : '📁';
   return (
     <div className="resultado">
       <div className="nombre">{icono} {archivo.nombre}</div>
