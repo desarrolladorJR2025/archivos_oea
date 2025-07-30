@@ -1,7 +1,6 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
@@ -244,7 +243,7 @@ mark {
 @media (max-width: 600px) {
   .buscador-container {
     max-width: 98vw;
-    padding: 18px 4vw 18px 4vw;
+    padding: 18px 5px 18px 5px;
   }
 
   .campo-busqueda {
