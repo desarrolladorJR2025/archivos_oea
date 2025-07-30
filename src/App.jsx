@@ -31,15 +31,15 @@ function ResultadoArchivo({ archivo }) {
       <div className="descripcion">{archivo.descripcion}</div>
       {esEnlace ? (
         <div style={{ display: 'flex', justifyContent: 'center' }}>
-  <a
-    className="enlace-carpeta"
-    href={archivo.ruta}
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Abrir documento
-  </a>
-</div>
+          <a
+            className="enlace-carpeta"
+            href={archivo.ruta}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Abrir documento
+          </a>
+        </div>
 
       ) : archivo.ruta ? (
         <div className="ruta-local">
