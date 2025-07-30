@@ -270,8 +270,7 @@ mark {
     margin: 0;
     padding: 0;
     height: 100vh;
+    background-size: 100% 100%;
+
   }
-
-
-
 }
