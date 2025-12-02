@@ -47,7 +47,7 @@ function ResultadoArchivo({ archivo }) {
           <button onClick={() => navigator.clipboard.writeText(archivo.ruta)} className="copiar-btn">Copiar ruta</button>
         </div>
       ) : (
-        <span className="sin-ruta">Sin ruta disponible</span>
+        <span className="sin-ruta">Sin no encontrada ruta disponible</span>
       )}
     </div>
   );
